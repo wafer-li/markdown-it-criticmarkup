@@ -6,13 +6,13 @@ See [criticmarkup user guide](http://criticmarkup.com/users-guide.php) for more 
 
 ## Install
 
-```
+```md
 npm i markdown-it-cricticmarkup
 ```
 
 ## Usage
 
-```
+```nodejs
 var md = require('markdown-it')();
 
 var critic = require('markdown-it-criticmarkup');
